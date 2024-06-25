@@ -12,6 +12,9 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. Default world of `wasmtime serve` (@alexcrichton, https://github.com/bytecodealliance/wasmtime/pull/8138)
+    1. Discussion of `cargo vet` (@alexcrichton)
+    1. shared-everything-threads and `VMInstanceContext` vs `VMThreadContext` vs `VMStoreContext` (ie `VMStoreLimits` but we should have renamed it long ago IMHO) (@fitzgen, @abrown)
     1. _Submit a PR to add your item here_
 
 ## Notes
