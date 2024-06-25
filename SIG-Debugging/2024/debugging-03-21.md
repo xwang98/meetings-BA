@@ -8,16 +8,17 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
-    1. _Submit a PR to add your item here_
+    1. [Wasmtime Debugging RFC](github.com/bytecodealliance/rfcs/pull/34): it exists and we can discuss it
 
 ## Attendees
 
-* TODO
+* Benjamin Titzer
+* Saul Cabrera
+* Nick Fitzgerald
 
 ## Notes
 
-* TODO
-
-## Action Items
-
-* [ ] TODO
+* RFC for debugging: https://github.com/bytecodealliance/rfcs/pull/34
+  * discussion about the Wasm core dump format
+  * discussion about `spidermonkey.wasm` debug component adapter
+  * discussion about low-level debugging interfaces in Wizard
